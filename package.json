@@ -1,5 +1,5 @@
 {
-  "homepage":"https://MdRabbiMiah01.github.io/Task-Manager",
+  "homepage": "https://MdRabbiMiah01.github.io/Task-Manager/",
   "name": "task-manager",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.0.0",
